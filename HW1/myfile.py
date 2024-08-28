@@ -14,6 +14,6 @@ for i in range(1,1000):
             for m in range(1,1000):
                 if (flag):
                     break
-                if i!= j and j!=k and k!=m and m!=i and i!=k and i*i*i + j*j*j == k*k*k + m*m*m:
+                if i!= j and j!=k and k!=m and m!=i and i!=k and i*i*i + j*j*j == k*k*k + m*m*m
                     print (i, j, k, m)
                     flag = True
