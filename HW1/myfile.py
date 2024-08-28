@@ -1,4 +1,4 @@
-### Code to find one pair Ramanujan numbers which are A3 + B3 = C3 + D3
+### Code to find one pair of Ramanujan numbers which are A^3 + B^3 = C^3 + D^3
 
 flag = False
 
