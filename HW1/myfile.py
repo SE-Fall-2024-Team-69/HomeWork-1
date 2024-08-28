@@ -1,5 +1,4 @@
-### Code to find one Ramanujan numbers which are a3 + b3 = c3 + d3
-# Most noobie brute-force approach :)
+### Code to find one pair Ramanujan numbers which are A3 + B3 = C3 + D3
 
 flag = False
 
