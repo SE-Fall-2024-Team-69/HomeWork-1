@@ -24,6 +24,6 @@ jobs:
       - name: Run tests
         # Calculates code coverage for myfile.py
         run: |
-          pytest --cov=myfile
+          pytest --cov=HW1/myfile
         env:
           CI: true
