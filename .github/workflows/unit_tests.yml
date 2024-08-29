@@ -28,6 +28,6 @@ jobs:
         
         # Ayush's commit to test the code changes
         run: |
-          pytest --cov=test_myfile_true.py
+          pytest --cov=test_myfile.py
         env:
           CI: true
