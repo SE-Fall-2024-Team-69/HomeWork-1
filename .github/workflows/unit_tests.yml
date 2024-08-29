@@ -23,7 +23,11 @@ jobs:
 
       - name: Run tests
         # Calculates code coverage for myfile.py
+        # run: |
+        #   pytest --cov=myfile
+        
+        # Ayush's commit to test the code changes
         run: |
-          pytest --cov=myfile
+          pytest --cov=test_myfile_true.py
         env:
           CI: true
